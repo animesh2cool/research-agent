@@ -1,0 +1,5 @@
+duckduckgo-search
+langchain
+langchain-community
+langchain-ollama
+xhtml2pdf
